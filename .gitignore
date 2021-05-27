@@ -1,0 +1,16 @@
+node_modules
+.DS_Store
+*.log
+.idea
+.vscode
+dist/*.js
+dist/*.map
+coverage/
+/lib
+/es
+/dist
+/build
+package-lock.json
+yarn.lock
+
+demo-link
